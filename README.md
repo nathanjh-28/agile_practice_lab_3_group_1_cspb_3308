@@ -2,7 +2,7 @@ Create a README.md file for the repository and include the following:
 
 Project title (must be something representing your project)
 
-Team #
+Team #: Group 1
 
 Team/Product Name
 
